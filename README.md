@@ -35,11 +35,11 @@ Please give a brief review of the 3rd party libraries you used and how/ why you'
 Please fill in the following table with the technologies you used in order to work at your application. Feel free to add more rows if you want us to know about anything else you used.
 | Name | Choice |
 | ------ | ------ |
-| Operating system (OS) | e.g. Ubuntu 20.04 |
+| Operating system (OS) | e.g. Windows 8.1 x64 |
 | Database  | e.g. MySQL 8.0|
 | Web server| e.g. Nginx |
-| PHP | e.g. 7.0 |
-| IDE | e.g. PhpStorm |
+| PHP | e.g. 8.0.3 |
+| IDE | e.g. Atom |
 
 ### Testing
 In this section, please list the steps and/ or tools you've used in order to test the behaviour of your solution.
