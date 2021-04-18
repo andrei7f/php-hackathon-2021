@@ -37,7 +37,7 @@ Please fill in the following table with the technologies you used in order to wo
 | ------ | ------ |
 | Operating system (OS) | e.g. Windows 8.1 x64 |
 | Database  | e.g. MySQL 8.0|
-| Web server| e.g. Nginx |
+| Web server| e.g. xampp |
 | PHP | e.g. 8.0.3 |
 | IDE | e.g. Atom |
 
